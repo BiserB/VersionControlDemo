@@ -5,11 +5,8 @@
 3. Working on file in dev branch.
 
 4. Changes are made while on master branch.
-<<<<<<< HEAD
 4.1 There should be conflict. Resolved.
-=======
 
 5. Working on master. Everything is fine.
->>>>>>> 15f55549d8a7eb8958fd947047eb00c892ec0617
 
 6. Simple line without conflicts.
