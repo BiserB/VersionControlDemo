@@ -3,3 +3,5 @@
 2. Second line created in dev branch.
 
 3. Working on file in dev branch.
+
+4. There should be conflict.
