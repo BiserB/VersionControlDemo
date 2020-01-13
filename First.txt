@@ -5,3 +5,5 @@
 3. Working on file in dev branch.
 
 4. Changes are made while on master branch.
+
+5. Working on master. Everything is fine.
