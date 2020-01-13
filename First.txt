@@ -5,3 +5,4 @@
 3. Working on file in dev branch.
 
 4. Changes are made while on master branch.
+4.1 There should be conflict. Resolved.
