@@ -11,3 +11,5 @@
 
 5. Working on master. Everything is fine.
 >>>>>>> 15f55549d8a7eb8958fd947047eb00c892ec0617
+
+6. Simple line without conflicts.
